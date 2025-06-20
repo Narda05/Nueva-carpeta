@@ -1,6 +1,18 @@
 # 📅 Agenda - Task Management Android App
 
-A modern and intuitive task management application built with Android Studio and Kotlin. This agenda app helps users organize their daily tasks with a clean, user-friendly interface.
+A modern and intuitive task management application built with Android Studio and Kotlin.
+![Image](https://github.com/user-attachments/assets/b218acd0-0733-41aa-99d5-96bc3b8e75db)
+
+## Menu
+![Image](https://github.com/user-attachments/assets/e45237a2-2d93-4acf-9804-cf819a80b3dc)
+
+## New Task
+![Image](https://github.com/user-attachments/assets/4b6c617f-ac64-41e8-a7ef-d493efe87c70)
+
+## Order by dates
+![Image](https://github.com/user-attachments/assets/5758192f-b805-4f8b-b55e-fd968c2ad014)
+
+
 
 ## 🌟 Features
 
