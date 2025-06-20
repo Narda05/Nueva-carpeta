@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adlam_display</item>
+        <item>@font/afacad_medium</item>
+        <item>@font/aleo_thin</item>
+        <item>@font/ar_one_sans</item>
+        <item>@font/baloo_2_medium</item>
+    </array>
+</resources>
