@@ -294,21 +294,6 @@ companion object {
 5. **View Details**: Tap any task card to see full details
 6. **Task Management**: Delete tasks or mark as complete from main list
 
-## 🐛 Known Issues & Future Enhancements
-
-### Current Limitations
-- Tasks are not persisted between app sessions
-- No edit functionality for existing tasks
-- Limited task categorization options
-
-### Planned Features
-- Database integration for persistent storage
-- Task editing capabilities
-- Categories and priority levels
-- Search and filter functionality
-- Notification reminders
-- Task completion statistics
-
 ## 📄 Code Quality
 
 - **Kotlin Best Practices**: Follows Kotlin coding conventions
